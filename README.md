@@ -3,7 +3,7 @@
 
 File Analyzer is a command-line tool developed in C that provides statistics on text files, such as the number of lines, words, and characters. It is designed to help users quickly understand the content metrics of their files and can also display the file contents directly in the terminal.
 
-![File Analyzer Usage Example](./analyzer.cana.jpg)
+![File Analyzer Usage Example](./assets/analyzer.jpeg)
 
 ## Table of Contents
 
